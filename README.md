@@ -1,3 +1,1 @@
-# Hi, I'm Ajay Sai 👋
-
-Designing products people enjoy using.
+# Designing products people enjoy using.
